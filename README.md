@@ -138,7 +138,7 @@ while True:
 ```
 
 <hr>
-<h2>Sample Input and Output</h2>
+<h2>Input and Output</h2>
 
 <img width="330" height="777" alt="image" src="https://github.com/user-attachments/assets/72e9f4b1-de6f-48d7-82c5-434e0cbf28cc" />
 
